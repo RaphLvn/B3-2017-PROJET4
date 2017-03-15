@@ -1,0 +1,35 @@
+
+
+
+body{
+  background-image: url(images/background_abeilles-01.svg);
+  background-size: 100px;
+  background-repeat: repeat;
+  font-size: 18px;
+}
+
+h1{
+  font-size: 100px;
+  color: #fff;
+}
+
+video{
+
+}
+
+.content {
+  max-width: 400px;
+  padding: 42px;
+  background: rgba(255, 0, 0, 0.5);
+}
+
+p{
+  font-size: 100%;
+  color: white;
+  float: right;
+}
+
+article{
+ display: flex;
+ justify-content: space-around;
+}
